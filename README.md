@@ -29,5 +29,5 @@ I enjoy building and shipping software that heightens my many hobbies like readi
 ---
 
 ## 📫 Connect
-- **LinkedIn:** #https://www.linkedin.com/in/brandon-vasquez-a973b322a/
-- **Email:** #brandon.vasquez.app@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/brandon-vasquez-a973b322a/
+- **Email:** brandon.vasquez.app@gmail.com
